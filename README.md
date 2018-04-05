@@ -5,3 +5,5 @@
 を使ってます．
 
 ライセンスに関しては本家をみて下さい．
+
+[スライド](https://hunachi.github.io/prolab-LT-0407-hunachi/)
